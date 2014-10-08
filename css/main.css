@@ -1,0 +1,78 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+.banner_text {
+	display: block;
+	padding-top: 10px;
+}
+
+.bg_1 {
+	background-image: url('../img/img_aboutbg.jpg');
+}
+
+.bg_2 {
+	background: url(http://subtlepatterns.com/patterns/navy_blue.png);
+	padding-bottom: 90px;
+}
+
+.bg_3 {
+	background: url(http://subtlepatterns.com/patterns/navy_blue.png);
+	padding: 100px 0 !important;
+}
+
+#item1 {
+	background: url('../img/img_hospitality001.jpg');
+}
+
+.slogan img {
+	width: 100px;
+}
+
+.infobox-1 p {
+	font-size: 14px;
+	line-height: 20px;
+	margin-bottom: 15px;
+}
+
+.portfolio-box .infinity_icon {
+	background: url('../img/img_logoicon.svg') no-repeat;
+	-webkit-background-size: contain;
+	background-size: contain;
+	display: inline-block;
+	height: 40px;
+	margin: 15px 0;
+	width: 80px;
+}
+
+.portfolio-categories ul li a {
+	height: auto;
+}
+
+.contact-info h5 {
+	display: block;
+}
+
+.contact-info {
+	height: auto;
+}
+
+.contact-info .fa-3 {
+	font-size: 3em;
+	padding-bottom: 10px;
+}
+
+.content-map {
+	height: 75px;
+}
+
+.content-map span {
+	margin-top: 14px;
+	padding-left: 10px;
+	text-align: left;
+}
+
+@media (max-width: 1024px) {
+	.slide-menu {
+		background-size: inherit !important;
+	}
+}

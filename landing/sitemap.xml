@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://www.nomeatstudio.com/images/infinity_warmgrey2.png</loc>
+    <lastmod>2014-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.nomeatstudio.com/images/social%202-u30792.png</loc>
+    <lastmod>2014-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.nomeatstudio.com/images/social%202-u30801.png</loc>
+    <lastmod>2014-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.nomeatstudio.com/images/social%202-u30797.png</loc>
+    <lastmod>2014-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.nomeatstudio.com/index.html</loc>
+    <lastmod>2014-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.nomeatstudio.com/phone/index.html"/>
+  </url>
+</urlset>
